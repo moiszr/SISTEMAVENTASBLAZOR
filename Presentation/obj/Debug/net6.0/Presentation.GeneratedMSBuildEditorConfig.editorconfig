@@ -8,41 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Presentation
 build_property.RootNamespace = Presentation
-build_property.ProjectDir = D:\ProyectoFinal-P3\Presentation\
+build_property.ProjectDir = D:\P3\SISTEMAVENTASBLAZOR\Presentation\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ProyectoFinal-P3\Presentation
+build_property.MSBuildProjectDirectory = D:\P3\SISTEMAVENTASBLAZOR\Presentation
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ProyectoFinal-P3/Presentation/App.razor]
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProyectoFinal-P3/Presentation/Pages/Index.razor]
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProyectoFinal-P3/Presentation/_Imports.razor]
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProyectoFinal-P3/Presentation/Shared/MainLayout.razor]
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-2j87krje1o
 
-[D:/ProyectoFinal-P3/Presentation/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-l7pvs56z1q
-
-[D:/ProyectoFinal-P3/Presentation/Pages/Error.cshtml]
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProyectoFinal-P3/Presentation/Pages/_Host.cshtml]
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Login/Registrarse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cUmVnaXN0cmFyc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProyectoFinal-P3/Presentation/Pages/_Layout.cshtml]
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

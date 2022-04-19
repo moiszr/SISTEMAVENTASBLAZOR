@@ -1,73 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProyectoFinal-P3\\Presentation\\Presentation.csproj": {}
+    "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\Presentation.csproj": {}
   },
   "projects": {
-    "D:\\ProyectoFinal-P3\\Business\\Business.csproj": {
-      "restore": {
-        "projectUniqueName": "D:\\ProyectoFinal-P3\\Business\\Business.csproj",
-        "projectName": "Business",
-        "projectPath": "D:\\ProyectoFinal-P3\\Business\\Business.csproj",
-        "frameworks": {
-          "net472": {
-            "projectReferences": {
-              "D:\\ProyectoFinal-P3\\Data\\Data.csproj": {
-                "projectPath": "D:\\ProyectoFinal-P3\\Data\\Data.csproj"
-              },
-              "D:\\ProyectoFinal-P3\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\ProyectoFinal-P3\\Entities\\Entities.csproj"
-              }
-            }
-          }
-        }
-      },
-      "frameworks": {
-        "net472": {}
-      }
-    },
-    "D:\\ProyectoFinal-P3\\Data\\Data.csproj": {
-      "restore": {
-        "projectUniqueName": "D:\\ProyectoFinal-P3\\Data\\Data.csproj",
-        "projectName": "Data",
-        "projectPath": "D:\\ProyectoFinal-P3\\Data\\Data.csproj",
-        "frameworks": {
-          "net472": {
-            "projectReferences": {
-              "D:\\ProyectoFinal-P3\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\ProyectoFinal-P3\\Entities\\Entities.csproj"
-              }
-            }
-          }
-        }
-      },
-      "frameworks": {
-        "net472": {}
-      }
-    },
-    "D:\\ProyectoFinal-P3\\Entities\\Entities.csproj": {
-      "restore": {
-        "projectUniqueName": "D:\\ProyectoFinal-P3\\Entities\\Entities.csproj",
-        "projectName": "Entities",
-        "projectPath": "D:\\ProyectoFinal-P3\\Entities\\Entities.csproj",
-        "frameworks": {
-          "net472": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net472": {}
-      }
-    },
-    "D:\\ProyectoFinal-P3\\Presentation\\Presentation.csproj": {
+    "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProyectoFinal-P3\\Presentation\\Presentation.csproj",
+        "projectUniqueName": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\Presentation.csproj",
         "projectName": "Presentation",
-        "projectPath": "D:\\ProyectoFinal-P3\\Presentation\\Presentation.csproj",
+        "projectPath": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\Presentation.csproj",
         "packagesPath": "C:\\Users\\moise\\.nuget\\packages\\",
-        "outputPath": "D:\\ProyectoFinal-P3\\Presentation\\obj\\",
+        "outputPath": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -87,14 +31,7 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {
-              "D:\\ProyectoFinal-P3\\Business\\Business.csproj": {
-                "projectPath": "D:\\ProyectoFinal-P3\\Business\\Business.csproj"
-              },
-              "D:\\ProyectoFinal-P3\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\ProyectoFinal-P3\\Entities\\Entities.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -106,6 +43,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
