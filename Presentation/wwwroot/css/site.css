@@ -1,1 +1,61 @@
+.categorias_options {
+    margin-top: 25px;
+    float: left;
+   margin-right: 4.2%;
+}
+.categorias_options1 {
+    margin-top: 25px;
+    float: left;
+    
+}
 
+
+.catedoria_index {
+    margin-top: 20px;
+}
+
+.content_title_comordenar {
+    margin-top: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.vision{
+    margin-top: 10px;
+    float:left;
+    margin-left: 20px;
+    height:140px;
+    width:300px;
+
+}
+.mision {
+    margin-top: 10px;
+    float: left;
+    height: 140px;
+    width: 300px;
+    margin-left: 10px;
+}
+.valores {
+    margin-left: 10px;
+    float: left;
+    height: 200px;
+    width: 600px;
+}
+.content_logo {
+    margin-top: 10px;
+    float: left;
+    height: 300px;
+    width: 400px;
+}
+
+.content_services_text {
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+}
+
+.content_comoordenar_text {
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    margin-top:20px;
+}

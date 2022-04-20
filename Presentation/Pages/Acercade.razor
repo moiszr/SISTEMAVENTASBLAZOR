@@ -1,0 +1,71 @@
+﻿@page "/acercade"
+
+<link href="css/estilo.css" rel="stylesheet" />
+<PageTitle>Acerca de</PageTitle>
+
+<div class="content-wrapper">
+  <div class="content-header">
+    <div class="container-fluid">
+            <div class="row mb-2">
+        <div class="col-sm-6">
+            <div style="margin-right: 10px; float: left">
+                   <a class="m-0" href="@locationDaniel">Carmen Renata 1</a>
+            </div>
+          <a class="m-0" href="@locationDaniel">Villa de pantoja</a>
+
+        </div>
+
+        <div class="col-sm-6">
+          <ol class="breadcrumb float-sm-right">
+            <li class="breadcrumb-item"><a href="nosotros">Acerca de </a></li>
+          </ol>
+        </div>
+      </div>
+              <hr />
+
+        <div class="content_acercade" >
+            <div class="content_logo">
+               <center><img src="img/BlazorStore.png" style="width:150px; height:150px;margin-top: 30px;" /></center>
+            </div>
+            
+            <div class="vision">
+                <H5> Vision</H5>
+                <hr />
+                <p>Ser la empresa de ventas al detalle preferida, con operaciones de clase mundial.</p>
+            </div>
+            <div class="mision">
+                <H5> Mision</H5>
+                <hr />
+                <p>Ofrecer una experiencia de compra que haga la vida más práctica y feliz.</p>
+            </div>
+            <div class="valores">
+                <H5> Valores</H5>
+                <hr />
+            </div>
+        </div>
+
+        <div class="content_services"style="width:100%;">
+           
+            <div class="content_services_text">
+                <h5>Servimos con pasión</h5>
+                <p>Contamos con una plataforma logística de primera línea que nos permite asegurar la integridad y frescura en el despacho de los productos.</p>
+              
+            </div>
+            <div class="content_services_text">
+                <h5>Más tiempo para ti</h5>
+                <p>Queremos que tengas más tiempo para ti y tu familia, una mejor calidad de vida, es por eso que te ofrecemos la posibilidad de comprar de forma simple y rápida.</p>
+            </div>
+            <div class="content_services_text">
+                <h5>Capacidad de servicio</h5>
+                <p>Contamos con personal entrenado en las diferentes áreas y una flotilla de vehículos equipados para llevar a cabo la ejecución de tu órden con la mayor eficiencia.</p>
+              
+            </div>
+        </div>
+
+</div>
+</div>
+</div>
+
+@code{
+    public string locationDaniel = "https://www.google.com/maps/place/Carmen+Renata+I,+Santo+Domingo/@18.5178193,-70.0059987,16z/data=!4m13!1m7!3m6!1s0x8eaf8baabdee2743:0x22fe0bd165b5247!2sCarmen+Renata+I,+Santo+Domingo!3b1!8m2!3d18.5167128!4d-70.0008147!3m4!1s0x8eaf8baabdee2743:0x22fe0bd165b5247!8m2!3d18.5167128!4d-70.0008147";
+}
