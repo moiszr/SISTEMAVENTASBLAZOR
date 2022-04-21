@@ -1,0 +1,93 @@
+@layout AccountLayout
+@page "/login"
+@inject IToastService toastService
+@using Blazored.Toast.Configuration
+
+<PageTitle>BlazorStore - Login</PageTitle>
+
+<div class="login-box">
+  <div class="login-logo">
+    <a href="/"><b>Blazor</b>Store</a>
+  </div>
+  <div class="card">
+    <div class="card-body login-card-body">
+      <p class="login-box-msg">Inicia sesión para Iniciar tu cuenta</p>
+
+      <EditForm Model="@users" OnValidSubmit="@BuscarUser">
+          <BlazoredToasts Position="ToastPosition.BottomRight"
+                Timeout="10"
+                IconType="IconType.FontAwesome"
+                SuccessClass="success-toast-override"/>
+        <div class="input-group mb-3">
+          <InputText type="text" @bind-Value="users.Username" class="form-control" placeholder="Nombre de Usuario" />
+          <div class="input-group-append">
+            <div class="input-group-text">
+              <span class="fas fa-envelope"></span>
+            </div>
+          </div>
+        </div>
+        <div class="input-group mb-3">
+          <InputText type="password" @bind-Value="users.Password2" class="form-control" placeholder="Contraseña" />
+          <div class="input-group-append">
+            <div class="input-group-text">
+              <span class="fas fa-lock"></span>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-7">
+            <div class="icheck-primary">
+
+            </div>
+          </div>
+          <div class="col-5">
+            <button type="submit" class="btn btn-primary btn-block">Iniciar Sesión</button>
+          </div>
+        </div>
+      </EditForm>
+
+      <div class="social-auth-links text-center mb-3">
+        <p>- OR -</p>
+        <a href="#" class="btn btn-block btn-primary">
+          <i class="fab fa-facebook mr-2"></i> Iniciar Sesión usando Facebook
+        </a>
+        <a href="#" class="btn btn-block btn-danger">
+          <i class="fab fa-google-plus mr-2"></i> Iniciar Sesión usando Google+
+        </a>
+      </div>
+      <p class="mb-1">
+        <a href="forgot-password.html">Olvidé mi contraseña</a>
+      </p>
+      <p class="mb-0">
+        <a href="/registrarme" class="text-center">Registrarme</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+@code {
+    [Inject] NavigationManager navigationManager { get; set; } = default!;
+    public E_Users users = new E_Users();
+    public D_Users objDtos = new D_Users();
+    string Contraseña = "";
+
+    private void BuscarUser()
+    {
+        E_Users.Users = objDtos.BuscarUsuario(users);
+
+        foreach (var item in E_Users.Users)
+        {
+            Contraseña = item.Password;
+        }
+
+    if (HashWithSalt.Verify(users.Password2, Contraseña))
+      {
+        navigationManager.NavigateTo("/");
+      }
+      else
+      {
+        E_Users.Users.Clear();
+        toastService.ShowError("Usuario o Contraseña Incorrectos", "Incorrectos");
+      }
+  }
+}

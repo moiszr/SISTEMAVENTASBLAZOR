@@ -1,16 +1,9 @@
+@layout AccountLayout
 @page "/registrarme"
+@using System.ComponentModel.DataAnnotations
 
-<html lang="es">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>BlazorStore | Registro</title>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
-  <link rel="stylesheet" href="AdminLTE/plugins/fontawesome-free/css/all.min.css">
-  <link rel="stylesheet" href="AdminLTE/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
-  <link rel="stylesheet" href="AdminLTE/dist/css/adminlte.min.css">
-</head>
-<body class="hold-transition register-page">
+<PageTitle>BlazorStore - Registro</PageTitle>
+
 <div class="register-box">
   <div class="register-logo">
     <a href="/"><b>Blazor</b>Store</a>
@@ -20,9 +13,11 @@
     <div class="card-body register-card-body">
       <p class="login-box-msg">Registro de nuevo usuario</p>
 
-      <form action="/" method="post">
+      <EditForm Model="@users" OnValidSubmit="@CreateUser">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
         <div class="input-group mb-3">
-          <input type="text" class="form-control" placeholder="Full name">
+          <InputText class="form-control" @bind-Value="users.Name" id="Name" placeholder="Nombre" />
           <div class="input-group-append">
             <div class="input-group-text">
               <span class="fas fa-user"></span>
@@ -30,7 +25,24 @@
           </div>
         </div>
         <div class="input-group mb-3">
-          <input type="email" class="form-control" placeholder="Email">
+          <InputText class="form-control" @bind-Value="users.LastName" id="LastName" placeholder="Apellidos" />
+          <div class="input-group-append">
+            <div class="input-group-text">
+              <span class="fas fa-user"></span>
+            </div>
+          </div>
+        </div>
+        <div class="input-group mb-3">
+          <InputText class="form-control" @bind-Value="users.Username" id="Username" placeholder="Usuario" />
+          <div class="input-group-append">
+            <div class="input-group-text">
+              <span class="fas fa-user"></span>
+            </div>
+          </div>
+        </div>
+        <div class="input-group mb-3">
+          <InputText type="email" class="form-control" @bind-Value="users.Email" id="Email"
+            placeholder="Correo Electronico" />
           <div class="input-group-append">
             <div class="input-group-text">
               <span class="fas fa-envelope"></span>
@@ -38,15 +50,8 @@
           </div>
         </div>
         <div class="input-group mb-3">
-          <input type="password" class="form-control" placeholder="Password">
-          <div class="input-group-append">
-            <div class="input-group-text">
-              <span class="fas fa-lock"></span>
-            </div>
-          </div>
-        </div>
-        <div class="input-group mb-3">
-          <input type="password" class="form-control" placeholder="Retype password">
+          <InputText type="password" class="form-control" @bind-Value="users.Password2" id="Contraseña"
+            placeholder="Contraseña" />
           <div class="input-group-append">
             <div class="input-group-text">
               <span class="fas fa-lock"></span>
@@ -56,17 +61,13 @@
         <div class="row">
           <div class="col-7">
             <div class="icheck-primary">
-              <input type="checkbox" id="agreeTerms" name="terms" value="agree">
-              <label for="agreeTerms">
-               Acepto los <a href="#">terminos</a>
-              </label>
             </div>
           </div>
           <div class="col-5">
             <button type="submit" class="btn btn-primary btn-block">Registrarme</button>
           </div>
         </div>
-      </form>
+      </EditForm>
 
       <div class="social-auth-links text-center">
         <p>- O -</p>
@@ -82,11 +83,19 @@
 
       <a href="/login" class="text-center">Ya tengo una cuenta</a>
     </div>
-</div>
+  </div>
 </div>
 
-<script src="AdminLTE/plugins/jquery/jquery.min.js"></script>
-<script src="AdminLTE/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="AdminLTE/dist/js/adminlte.min.js"></script>
-</body>
-</html>
+@code {
+  [Inject] NavigationManager navigationManager { get; set; } = default!;
+  public E_Users users = new E_Users();
+  public D_Users objDtos = new D_Users();
+
+  private void CreateUser()
+  {
+    users.Rol_id = 2;
+    users.Password = HashWithSalt.Hash(users.Password2);
+    objDtos.InsertarProductos(users);
+    navigationManager.NavigateTo("/");
+  }
+}

@@ -4,49 +4,47 @@ using System.Data.SqlClient;
 
 namespace Presentation.Data
 {
-    public class D_Users : SQLConnConfig
+    public class D_Users
     {
-        public D_Users(string Conexion) : base(Conexion)
-        {
-        }
+        public SqlConnection conn = new SqlConnection("Data Source=localhost;Initial Catalog=StoreInBlazor;Integrated Security=True;MultipleActiveResultSets=True;Application Name=StoreInBlazor;");
 
-        public List<E_Users> GetUser()
+        public List<E_Users> BuscarUsuario(E_Users users)
         {
             List<E_Users> Listar = new List<E_Users>();
-            using (SqlConnection conn = new SqlConnection(ConnectionStrings))
+
+            SqlDataReader reader = null!;
+            SqlCommand cmd = new SqlCommand("SP_BUSCARUSERNAME", conn);
+            cmd.CommandType = CommandType.StoredProcedure; 
+
+            conn.Open();
+            cmd.Parameters.AddWithValue("@USERNAME", users.Username);
+            reader = cmd.ExecuteReader();
+
+            while (reader.Read())
             {
-                SqlDataReader reader = null!;
-                SqlCommand cmd = new SqlCommand("SELECT * FROM users WHERE username = @username", conn);
-                cmd.CommandType = CommandType.StoredProcedure; 
-
-                conn.Open();
-                reader = cmd.ExecuteReader();
-
-                while (reader.Read())
+                Listar.Add(new E_Users
                 {
-                    Listar.Add(new E_Users
-                    {
-                        Id = Convert.ToInt32(reader["id"]),
-                        Code = Convert.ToString(reader["code"]),
-                        Name = Convert.ToString(reader["name"]),
-                        LastName = Convert.ToString(reader["last_name"]),
-                        Username = Convert.ToString(reader["username"]),
-                        Email = Convert.ToString(reader["email"]),
-                        Password = Convert.ToString(reader["password"]),
-                        Avatar = Convert.ToString(reader["avatar"]),
-                        Rol_id = Convert.ToInt32(reader["rol_id"])
-                    });
-                }
-
-                conn.Close();
-                reader.Close();
+                    Id = Convert.ToInt32(reader["ID"])!,
+                    Code = Convert.ToString(reader["CODE"])!,
+                    Name = Convert.ToString(reader["NAME"])!,
+                    LastName = Convert.ToString(reader["LASTNAME"])!,
+                    Username = Convert.ToString(reader["USERNAME"])!,
+                    Email = Convert.ToString(reader["EMAIL"])!,
+                    Password = Convert.ToString(reader["PASSWORD"])!,
+                    Avatar = Convert.ToString(reader["AVATAR"])!,
+                    Rol_id = Convert.ToInt32(reader["ROL_ID"])!
+                });
             }
+
+            conn.Close();
+            reader.Close();
+
             return Listar;
         }
 
         public void InsertarProductos(E_Users users)
         {
-            using (SqlConnection conn = new SqlConnection(ConnectionStrings))
+            try
             {
                 SqlCommand cmd = new SqlCommand("SP_INSERTUSERS", conn);
                 cmd.CommandType = CommandType.StoredProcedure;
@@ -62,7 +60,14 @@ namespace Presentation.Data
 
                 cmd.ExecuteNonQuery();
                 conn.Close();
+                E_Users.Users.Add(users);
             }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            
+
         }
     }
 }

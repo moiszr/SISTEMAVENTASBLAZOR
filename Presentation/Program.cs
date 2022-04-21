@@ -1,16 +1,14 @@
+using Blazored.Toast;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using Presentation.Data;
 
 var builder = WebApplication.CreateBuilder(args);
-IConfiguration Configuration = builder.Configuration;
-var SQLConn = new SQLConnConfig(Configuration.GetConnectionString("DefaultConnection"));
 
 // Add services to the container.
-builder.Services.AddSingleton<SQLConnConfig>(SQLConn);
-builder.Services.AddServerSideBlazor(X => X.DetailedErrors = true);
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
+builder.Services.AddBlazoredToast();
 
 var app = builder.Build();
 

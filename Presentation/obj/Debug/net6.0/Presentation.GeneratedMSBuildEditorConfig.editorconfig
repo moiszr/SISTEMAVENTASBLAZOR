@@ -19,8 +19,24 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Acount/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNvdW50XExvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Acount/Registrarse.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNvdW50XFJlZ2lzdHJhcnNlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Shared/AccountLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFjY291bnRMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/P3/SISTEMAVENTASBLAZOR/Presentation/Shared/NavMenu.razor]
@@ -31,20 +47,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-2j87krje1o
-
 [D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Login/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cTG9naW4uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Login/Registrarse.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cUmVnaXN0cmFyc2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/_Host.cshtml]
