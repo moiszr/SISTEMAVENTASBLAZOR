@@ -19,6 +19,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Acercade.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNlcmNhZGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Acount/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNvdW50XExvZ2luLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -27,8 +31,44 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNvdW50XFJlZ2lzdHJhcnNlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Alimentos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWxpbWVudG9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Bebes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmViZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Bebidas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmViaWRhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/ComoOrdenar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tb09yZGVuYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Cuidado_personal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VpZGFkb19wZXJzb25hbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Hogar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9nYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Limpieza.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGltcGllemEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Nosotros.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm9zb3Ryb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P3/SISTEMAVENTASBLAZOR/Presentation/Pages/Ventajas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFqYXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/P3/SISTEMAVENTASBLAZOR/Presentation/Shared/AccountLayout.razor]

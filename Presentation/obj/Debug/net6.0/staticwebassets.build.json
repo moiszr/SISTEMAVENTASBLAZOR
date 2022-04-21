@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "j2jW8bbEPFjAAbEEfl5PIWc5vvfLS1rhTuzrdS1ImL0=",
+=======
+  "Hash": "IYxZVNwIWlSj0YinWHAommicejPihoBJqNznDQkj6PQ=",
+>>>>>>> origin
   "Source": "Presentation",
   "BasePath": "_content/Presentation",
   "Mode": "Default",
@@ -10,19 +14,28 @@
     {
       "Name": "Presentation\\wwwroot",
       "Source": "Presentation",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\moise\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\blazored-toast.css",
       "SourceId": "Blazored.Toast",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\moise\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\",
       "BasePath": "_content/Blazored.Toast",
       "RelativePath": "blazored-toast.css",
+=======
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Presentation.styles.css",
+      "SourceId": "Presentation",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "Presentation.styles.css",
+>>>>>>> origin
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,6 +44,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\moise\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\blazored-toast.css"
     },
     {
@@ -40,6 +54,17 @@
       "ContentRoot": "C:\\Users\\moise\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\",
       "BasePath": "_content/Blazored.Toast",
       "RelativePath": "blazored-toast.min.css",
+=======
+      "OriginalItemSpec": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Presentation.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Presentation.bundle.scp.css",
+      "SourceId": "Presentation",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "Presentation.bundle.scp.css",
+>>>>>>> origin
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,13 +73,17 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\moise\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\blazored-toast.min.css"
+=======
+      "OriginalItemSpec": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Presentation.bundle.scp.css"
+>>>>>>> origin
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\css\\adminlte.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\css\\adminlte.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/css/adminlte.css",
       "AssetKind": "All",
@@ -68,10 +97,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\css\\adminlte.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\css\\adminlte.min.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\css\\adminlte.min.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/css/adminlte.min.css",
       "AssetKind": "All",
@@ -85,10 +114,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\css\\adminlte.min.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\AdminLTELogo.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\AdminLTELogo.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/AdminLTELogo.png",
       "AssetKind": "All",
@@ -102,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\AdminLTELogo.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\avatar.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\avatar.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/avatar.png",
       "AssetKind": "All",
@@ -119,10 +148,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\avatar.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\avatar2.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\avatar2.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/avatar2.png",
       "AssetKind": "All",
@@ -136,10 +165,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\avatar2.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\avatar3.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\avatar3.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/avatar3.png",
       "AssetKind": "All",
@@ -153,10 +182,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\avatar3.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\avatar4.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\avatar4.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/avatar4.png",
       "AssetKind": "All",
@@ -170,10 +199,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\avatar4.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\avatar5.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\avatar5.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/avatar5.png",
       "AssetKind": "All",
@@ -187,10 +216,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\avatar5.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\BlazorStore.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\BlazorStore.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/BlazorStore.png",
       "AssetKind": "All",
@@ -204,10 +233,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\BlazorStore.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\boxed-bg.jpg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\boxed-bg.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/boxed-bg.jpg",
       "AssetKind": "All",
@@ -221,10 +250,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\boxed-bg.jpg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\boxed-bg.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\boxed-bg.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/boxed-bg.png",
       "AssetKind": "All",
@@ -238,10 +267,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\boxed-bg.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\credit\\american-express.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\credit\\american-express.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/credit/american-express.png",
       "AssetKind": "All",
@@ -255,10 +284,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\credit\\american-express.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\credit\\cirrus.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\credit\\cirrus.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/credit/cirrus.png",
       "AssetKind": "All",
@@ -272,10 +301,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\credit\\cirrus.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\credit\\mastercard.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\credit\\mastercard.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/credit/mastercard.png",
       "AssetKind": "All",
@@ -289,10 +318,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\credit\\mastercard.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\credit\\paypal.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\credit\\paypal.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/credit/paypal.png",
       "AssetKind": "All",
@@ -306,10 +335,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\credit\\paypal.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\credit\\paypal2.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\credit\\paypal2.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/credit/paypal2.png",
       "AssetKind": "All",
@@ -323,10 +352,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\credit\\paypal2.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\credit\\visa.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\credit\\visa.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/credit/visa.png",
       "AssetKind": "All",
@@ -340,10 +369,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\credit\\visa.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\default-150x150.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\default-150x150.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/default-150x150.png",
       "AssetKind": "All",
@@ -357,10 +386,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\default-150x150.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\icons.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\icons.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/icons.png",
       "AssetKind": "All",
@@ -374,10 +403,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\icons.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\photo1.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\photo1.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/photo1.png",
       "AssetKind": "All",
@@ -391,10 +420,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\photo1.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\photo2.png",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\photo2.png",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/photo2.png",
       "AssetKind": "All",
@@ -408,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\photo2.png"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\photo3.jpg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\photo3.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/photo3.jpg",
       "AssetKind": "All",
@@ -425,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\photo3.jpg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\photo4.jpg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\photo4.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/photo4.jpg",
       "AssetKind": "All",
@@ -442,10 +471,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\photo4.jpg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\prod-1.jpg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\prod-1.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/prod-1.jpg",
       "AssetKind": "All",
@@ -459,10 +488,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\prod-1.jpg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\prod-2.jpg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\prod-2.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/prod-2.jpg",
       "AssetKind": "All",
@@ -476,10 +505,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\prod-2.jpg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\prod-3.jpg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\prod-3.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/prod-3.jpg",
       "AssetKind": "All",
@@ -493,10 +522,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\prod-3.jpg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\prod-4.jpg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\prod-4.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/prod-4.jpg",
       "AssetKind": "All",
@@ -510,10 +539,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\prod-4.jpg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\prod-5.jpg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\prod-5.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/prod-5.jpg",
       "AssetKind": "All",
@@ -527,10 +556,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\prod-5.jpg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\user1-128x128.jpg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\user1-128x128.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/user1-128x128.jpg",
       "AssetKind": "All",
@@ -544,10 +573,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\user1-128x128.jpg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\user2-160x160.jpg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\user2-160x160.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/user2-160x160.jpg",
       "AssetKind": "All",
@@ -561,10 +590,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\user2-160x160.jpg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\user3-128x128.jpg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\user3-128x128.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/user3-128x128.jpg",
       "AssetKind": "All",
@@ -578,10 +607,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\user3-128x128.jpg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\user4-128x128.jpg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\user4-128x128.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/user4-128x128.jpg",
       "AssetKind": "All",
@@ -595,10 +624,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\user4-128x128.jpg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\user5-128x128.jpg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\user5-128x128.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/user5-128x128.jpg",
       "AssetKind": "All",
@@ -612,10 +641,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\user5-128x128.jpg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\user6-128x128.jpg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\user6-128x128.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/user6-128x128.jpg",
       "AssetKind": "All",
@@ -629,10 +658,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\user6-128x128.jpg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\user7-128x128.jpg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\user7-128x128.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/user7-128x128.jpg",
       "AssetKind": "All",
@@ -646,10 +675,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\user7-128x128.jpg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\user8-128x128.jpg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\img\\user8-128x128.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/img/user8-128x128.jpg",
       "AssetKind": "All",
@@ -663,10 +692,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\user8-128x128.jpg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\js\\.eslintrc.json",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\js\\.eslintrc.json",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/js/.eslintrc.json",
       "AssetKind": "All",
@@ -680,10 +709,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\js\\.eslintrc.json"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\js\\adminlte.js",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\js\\adminlte.js",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/js/adminlte.js",
       "AssetKind": "All",
@@ -697,10 +726,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\js\\adminlte.js"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\js\\adminlte.js.map",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\js\\adminlte.js.map",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/js/adminlte.js.map",
       "AssetKind": "All",
@@ -714,10 +743,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\js\\adminlte.js.map"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\js\\adminlte.min.js",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\js\\adminlte.min.js",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/js/adminlte.min.js",
       "AssetKind": "All",
@@ -731,10 +760,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\js\\adminlte.min.js"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\js\\adminlte.min.js.map",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\js\\adminlte.min.js.map",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/js/adminlte.min.js.map",
       "AssetKind": "All",
@@ -748,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\js\\adminlte.min.js.map"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\js\\pages\\dashboard.js",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\js\\pages\\dashboard.js",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/js/pages/dashboard.js",
       "AssetKind": "All",
@@ -765,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\js\\pages\\dashboard.js"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\js\\pages\\dashboard2.js",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\js\\pages\\dashboard2.js",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/js/pages/dashboard2.js",
       "AssetKind": "All",
@@ -782,10 +811,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\js\\pages\\dashboard2.js"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\js\\pages\\dashboard3.js",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\dist\\js\\pages\\dashboard3.js",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/dist/js/pages/dashboard3.js",
       "AssetKind": "All",
@@ -799,10 +828,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\js\\pages\\dashboard3.js"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -816,10 +845,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -833,10 +862,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -850,10 +879,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -867,10 +896,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.js",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -884,10 +913,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -901,10 +930,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -918,10 +947,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -935,10 +964,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\all.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\all.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/css/all.css",
       "AssetKind": "All",
@@ -952,10 +981,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\all.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\all.min.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\all.min.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/css/all.min.css",
       "AssetKind": "All",
@@ -969,10 +998,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\all.min.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\brands.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\brands.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/css/brands.css",
       "AssetKind": "All",
@@ -986,10 +1015,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\brands.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\brands.min.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/css/brands.min.css",
       "AssetKind": "All",
@@ -1003,10 +1032,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\brands.min.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\fontawesome.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/css/fontawesome.css",
       "AssetKind": "All",
@@ -1020,10 +1049,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\fontawesome.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/css/fontawesome.min.css",
       "AssetKind": "All",
@@ -1037,10 +1066,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\regular.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\regular.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/css/regular.css",
       "AssetKind": "All",
@@ -1054,10 +1083,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\regular.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\regular.min.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/css/regular.min.css",
       "AssetKind": "All",
@@ -1071,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\regular.min.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\solid.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\solid.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/css/solid.css",
       "AssetKind": "All",
@@ -1088,10 +1117,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\solid.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\solid.min.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/css/solid.min.css",
       "AssetKind": "All",
@@ -1105,10 +1134,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\solid.min.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\svg-with-js.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/css/svg-with-js.css",
       "AssetKind": "All",
@@ -1122,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\svg-with-js.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/css/svg-with-js.min.css",
       "AssetKind": "All",
@@ -1139,10 +1168,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\v4-shims.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/css/v4-shims.css",
       "AssetKind": "All",
@@ -1156,10 +1185,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\v4-shims.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/css/v4-shims.min.css",
       "AssetKind": "All",
@@ -1173,10 +1202,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -1190,10 +1219,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -1207,10 +1236,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -1224,10 +1253,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -1241,10 +1270,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -1258,10 +1287,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -1275,10 +1304,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -1292,10 +1321,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -1309,10 +1338,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -1326,10 +1355,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -1343,10 +1372,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -1360,10 +1389,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -1377,10 +1406,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -1394,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -1411,10 +1440,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/fontawesome-free/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -1428,10 +1457,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\icheck-bootstrap\\icheck-bootstrap.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\icheck-bootstrap\\icheck-bootstrap.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/icheck-bootstrap/icheck-bootstrap.css",
       "AssetKind": "All",
@@ -1445,10 +1474,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\icheck-bootstrap\\icheck-bootstrap.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\icheck-bootstrap\\icheck-bootstrap.min.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\icheck-bootstrap\\icheck-bootstrap.min.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/icheck-bootstrap/icheck-bootstrap.min.css",
       "AssetKind": "All",
@@ -1462,10 +1491,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\icheck-bootstrap\\icheck-bootstrap.min.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\icheck-bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\icheck-bootstrap\\LICENSE",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/icheck-bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1479,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\icheck-bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.js",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.js",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/jquery/jquery.js",
       "AssetKind": "All",
@@ -1496,10 +1525,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\jquery\\jquery.js"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.min.js",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.min.js",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/jquery/jquery.min.js",
       "AssetKind": "All",
@@ -1513,10 +1542,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.min.map",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.min.map",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/jquery/jquery.min.map",
       "AssetKind": "All",
@@ -1530,10 +1559,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\jquery\\jquery.min.map"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.slim.js",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.slim.js",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/jquery/jquery.slim.js",
       "AssetKind": "All",
@@ -1547,10 +1576,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\jquery\\jquery.slim.js"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.slim.min.js",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.slim.min.js",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/jquery/jquery.slim.min.js",
       "AssetKind": "All",
@@ -1564,10 +1593,10 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\jquery\\jquery.slim.min.js"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.slim.min.map",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.slim.min.map",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "AdminLTE/plugins/jquery/jquery.slim.min.map",
       "AssetKind": "All",
@@ -1581,10 +1610,27 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\jquery\\jquery.slim.min.map"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\css\\estilo.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "css/estilo.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\estilo.css"
+    },
+    {
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\css\\site.css",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1598,10 +1644,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\favicon.ico",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1615,12 +1661,21 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\img\\fondo.jpg",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\P3\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
       "BasePath": "_content/Presentation",
       "RelativePath": "img/fondo.jpg",
+=======
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\img\\alimentos-organicos.png",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "img/alimentos-organicos.png",
+>>>>>>> origin
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1629,7 +1684,164 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\img\\fondo.jpg"
+=======
+      "OriginalItemSpec": "wwwroot\\img\\alimentos-organicos.png"
+    },
+    {
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\img\\BlazorStore.png",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "img/BlazorStore.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\BlazorStore.png"
+    },
+    {
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\img\\carrusel.png",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "img/carrusel.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\carrusel.png"
+    },
+    {
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\img\\ducha.png",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "img/ducha.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ducha.png"
+    },
+    {
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\img\\Foto 2x2 Daniel.jpg",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "img/Foto 2x2 Daniel.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Foto 2x2 Daniel.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\img\\Foto 2x2.jpg",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "img/Foto 2x2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Foto 2x2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\img\\lampara-de-escritorio.png",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "img/lampara-de-escritorio.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\lampara-de-escritorio.png"
+    },
+    {
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\img\\televisor.png",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "img/televisor.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\televisor.png"
+    },
+    {
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\img\\vaso-de-agua.png",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "img/vaso-de-agua.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\vaso-de-agua.png"
+    },
+    {
+      "Identity": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\img\\WhatsApp Image 2022-04-20 at 9.07.06 AM.jpeg",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\perey\\Desktop\\SISTEMAVENTASBLAZOR\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "img/WhatsApp Image 2022-04-20 at 9.07.06 AM.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\WhatsApp Image 2022-04-20 at 9.07.06 AM.jpeg"
+>>>>>>> origin
     }
   ]
 }
